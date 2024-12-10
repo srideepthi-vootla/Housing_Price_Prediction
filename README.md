@@ -105,7 +105,7 @@ The dataset includes information about 540 properties with the following attribu
 ## Technology Stack
 - **Python:** Data preprocessing, regression modeling, and visualization.
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy.
-- **Tools:** Jupyter Notebook, PowerPoint (for presentations).
+- **Tools:** RStudio, Jupyter Notebook, PowerPoint (for presentations).
 
 ---
 
