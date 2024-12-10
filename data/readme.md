@@ -1,8 +1,5 @@
 
 ---
-
-### **data/README.md**
-```markdown
 # Dataset: Housing Prices
 
 ## Overview
